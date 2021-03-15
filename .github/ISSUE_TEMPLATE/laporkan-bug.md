@@ -2,7 +2,7 @@
 name: Laporkan Bug
 about: Laporkan bug pada situs Mutiara Dakwah
 title: Saya menemukan bug pada...
-labels: ''
+labels: Bug
 assignees: mushlih-almubarak
 
 ---
